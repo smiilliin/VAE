@@ -11,3 +11,7 @@ Z distribution
 Number continuous image
 
 ![Number continuous image](adfa00aa-d310-4c67-a9c8-c52f80eb8e34.png)
+
+Number gif
+
+![Number gif](out.gif)
